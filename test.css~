@@ -3,6 +3,6 @@ background-color: #FF0000;
 }
 h1
 {
-color:#FF00FF;
+color:#FFFF00;
 text-align:center;
 }
